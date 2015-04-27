@@ -1,4 +1,4 @@
 # Project-Euler-solutions
-Runnable code for solving Project Euler problems
+Runnable Python code for solving Project Euler problems
 
 Project Euler problem solutions https://projecteuler.net/archives
