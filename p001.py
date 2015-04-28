@@ -8,7 +8,7 @@ from sys import argv
 
 script = argv
 answer_txt = script.pop(0)
-answer_txt = answer_txt.replace('py','txt')
+answer_txt = answer_txt.replace('.py','-answer.txt')
 
 the_sum = 0
 
