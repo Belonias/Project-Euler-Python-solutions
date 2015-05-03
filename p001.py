@@ -1,3 +1,4 @@
+# Project Euler
 # Multiples of 3 and 5
 # Problem 1
 """
@@ -22,5 +23,5 @@ for number in range(1,1000):
 
 print("\nThe answer is %d\n" % the_sum)
 txt = open(answer_txt, 'w')
-txt.write("The answer is " + str(the_sum) + "\nExecuted in " + str(time.time() - start_time) + " seconds")
+txt.write("The answer is " + str(the_sum) + "\nElapsed Time " + str(time.time() - start_time) + " seconds\n")
 txt.close
