@@ -1,0 +1,2 @@
+The answer is 6857
+Elapsed Time 0.03360605239868164 seconds
