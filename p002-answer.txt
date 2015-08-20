@@ -1,2 +1,2 @@
 The answer is 4613732
-Elapsed Time 0.0003407001495361328 seconds
+Elapsed Time 0.00482201576233 seconds

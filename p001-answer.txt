@@ -1,2 +1,2 @@
 The answer is 233168
-Executed in 0.000595808029175 seconds
+Elapsed Time 0.0149490833282 seconds
